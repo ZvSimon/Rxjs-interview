@@ -20,3 +20,11 @@ const users: UserInterface[] = [
 ```
 ## 2. How Rxjs map differs from JavaScript map ?
 `
+Rxjs map is used to transform the items emitted by an Observable by applying a function to each item whereas JavaScript map is used to transform the items of an array by applying a function to each item.
+`[LearnRxJS Map Operator](https://www.learnrxjs.io/learn-rxjs/operators/transformation/map)
+
+
+## 3. How filter works in Rxjs ?
+
+Write an example of rxjs.
+`
